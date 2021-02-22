@@ -52,7 +52,7 @@
     <UnityVersion>2020.1.0f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\behaviorScript.cs" />
+    <Compile Include="Assets\Scripts\behaviorScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
